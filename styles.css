@@ -21,6 +21,11 @@ body {
     cursor: pointer;
 }
 
+.logo {
+    height: 80px;
+    width: auto;
+}
+
 /*Navbar*/
 #navbar {
     display: flex;
@@ -39,11 +44,6 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 5px 0;
-}
-
-#navbar .navbar-container .logo {
-    height: 80px;
-    width: auto;
 }
 
 #navbar .navbar-container ul {
